@@ -39,6 +39,20 @@
 
     
     <url>
+        <loc>https://www.oportaldosestudantes.com.br/ordem-do-livros-a-arma-escarlate/</loc>
+        <lastmod>2026-03-28</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.oportaldosestudantes.com.br/ordem-dos-livros-lar-da-srta-peregrine-para-criancas-peculiares/</loc>
+        <lastmod>2026-03-28</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
         <loc>https://www.oportaldosestudantes.com.br/ordem-dos-livros-heartstopper/</loc>
         <lastmod>2026-03-28</lastmod>
         <changefreq>weekly</changefreq>
